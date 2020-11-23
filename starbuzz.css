@@ -15,4 +15,9 @@ h2{
 h3{
     color:red;
     text-align: center;
+    
+}
+#pret-vechi{
+    text-decoration: line-through;
+    font-size: 0.8em;
 }
