@@ -1,5 +1,5 @@
 body{
-    background-color: mediumorchid;
+    background-color: rgb(211, 85, 116);
     font-style: sans-serif;
     text-align: center;
 }
@@ -13,11 +13,32 @@ h2{
     text-align: center;
 }
 h3{
-    color:red;
+    color:rgb(209, 228, 46);
     text-align: center;
     
 }
 #pret-vechi{
     text-decoration: line-through;
     font-size: 0.8em;
+}
+img{
+    display: block;
+}
+p{
+    display: inline
+}
+blockquote{
+    font-size: 1.5em;
+    font-style: italic;
+    color: rgb(31, 235, 78);
+    text-decoration-style: dotted;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(232, 245, 53);
+
+}
+ol{
+    font-family: sans-serif;
+    list-style-type: '♣';
+    list-type-image: url()
+
 }
