@@ -23,6 +23,12 @@ h3{
 }
 img{
     display: block;
+    margin: auto;
+}
+a{
+    margin:2em;
+    border-style: double;
+    padding: 1em;
 }
 p{
     display: inline
@@ -34,11 +40,23 @@ blockquote{
     text-decoration-style: dotted;
     text-decoration-line: underline;
     text-decoration-color: rgb(232, 245, 53);
+    border-style: dotted;
+
+    border-color:rgb(31, 235, 78);
+    border-radius: 10px;
+    padding: 01.5em;
+    margin: 1em;
+    margin-left: 0;
+    width: 50em;
+    height: 5em;
+
+
+
 
 }
 ol{
     font-family: sans-serif;
     list-style-type: '♣';
-    list-type-image: url()
+    
 
 }
